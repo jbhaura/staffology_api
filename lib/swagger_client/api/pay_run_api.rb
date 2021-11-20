@@ -1627,8 +1627,8 @@ module SwaggerClient
     # @param period_number 
     # @param [Hash] opts the optional parameters
     # @option opts [PayRunStateChange] :body Specify the PayRun state you want to change to and the reason for the change.
-Only Open and Finalised states are available at the moment.
-Other states are used with Bureau functionality which isn&#x27;t currently generally available.
+    # Only Open and Finalised states are available at the moment.
+    # Other states are used with Bureau functionality which isn&#x27;t currently generally available.
     # @option opts [Integer] :ordinal  (default to 1)
     # @option opts [BOOLEAN] :send_payslip_emails Only relevant if setting the State to Finalised. Set to true if you want to have payslips emailed to employees. (default to false)
     # @return [PayRun]
@@ -1645,8 +1645,8 @@ Other states are used with Bureau functionality which isn&#x27;t currently gener
     # @param period_number 
     # @param [Hash] opts the optional parameters
     # @option opts [PayRunStateChange] :body Specify the PayRun state you want to change to and the reason for the change.
-Only Open and Finalised states are available at the moment.
-Other states are used with Bureau functionality which isn&#x27;t currently generally available.
+    # Only Open and Finalised states are available at the moment.
+    # Other states are used with Bureau functionality which isn&#x27;t currently generally available.
     # @option opts [Integer] :ordinal 
     # @option opts [BOOLEAN] :send_payslip_emails Only relevant if setting the State to Finalised. Set to true if you want to have payslips emailed to employees.
     # @return [Array<(PayRun, Integer, Hash)>] PayRun data, response status code and response headers
