@@ -125,7 +125,7 @@ module SwaggerClient
     attr_accessor :force_ending_format
 
     def initialize
-      @scheme = 'http'
+      @scheme = 'https'
       @host = 'api.staffology.co.uk'
       @base_path = '/'
       @api_key = {}
