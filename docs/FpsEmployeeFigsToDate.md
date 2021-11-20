@@ -1,0 +1,35 @@
+# SwaggerClient::FpsEmployeeFigsToDate
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**taxable_pay** | **String** |  | [optional] 
+**total_tax** | **String** |  | [optional] 
+**student_loans_td** | **String** |  | [optional] 
+**postgrad_loans_td** | **String** |  | [optional] 
+**benefits_taxed_via_payroll_ytd** | **String** |  | [optional] 
+**empee_pen_contribns_paid_ytd** | **String** |  | [optional] 
+**empee_pen_contribns_not_paid_ytd** | **String** |  | [optional] 
+**smpytd** | **String** |  | [optional] 
+**sppytd** | **String** |  | [optional] 
+**sapytd** | **String** |  | [optional] 
+**shppytd** | **String** |  | [optional] 
+**spbpytd** | **String** |  | [optional] 
+**sspytd** | **String** |  | [optional] 
+**gross** | **String** |  | [optional] 
+**net_pay** | **String** |  | [optional] 
+**additions** | **String** |  | [optional] 
+**deductions** | **String** |  | [optional] 
+**take_home_pay** | **String** |  | [optional] 
+**adjustments** | **String** |  | [optional] 
+**maps_miles** | **String** |  | [optional] 
+**pensionable_earnings** | **String** |  | [optional] 
+**pensionable_pay** | **String** |  | [optional] 
+**employer_pension_contribution** | **String** |  | [optional] 
+**employee_pension_contribution** | **String** |  | [optional] 
+**employee_pension_contribution_avc** | **String** |  | [optional] 
+**payment_after_leaving** | **String** |  | [optional] 
+**tax_on_payment_after_leaving** | **String** |  | [optional] 
+**taxable_pay_previous_employment** | **String** |  | [optional] 
+**total_tax_previous_employment** | **String** |  | [optional] 
+
